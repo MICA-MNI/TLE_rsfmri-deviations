@@ -5,7 +5,7 @@
 - mica_epicenter: code for identifying structural epicenters
 
 ### Machine Learning
-- model: supported vector machine (SVM)
+- model: support vector machine (SVM)
 - parameters: log2c = -5:0.2:5, log2g = -5:0.2:5
 - optimization: nested 5-fold cross-validation
 - performance metrics: accuracy, AUC curve
