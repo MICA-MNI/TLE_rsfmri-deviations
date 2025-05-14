@@ -3,6 +3,13 @@
 - mica_func_rmssd: code for computing RMSSD (root mean square of successive differences) for each area
 - mica_wscore: code for computing w-score map for each individual and each area
 
+### Machine Learning
+- supported vector machine (SVM)
+- parameters: log2c = -5:0.2:5, log2g = -5:0.2:5
+- nested 5-fold cross-validation
+- accuracy, AUC curve
+- 1000 permutation tests
+
 ### Open Software
 - libsvm (https://github.com/cjlin1/libsvm)
 - spm12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
