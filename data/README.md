@@ -1,1 +1,2 @@
-# This folder stores raw data files
+### demo data
+- resting-state fMRI timeseries of two healthy adults
